@@ -2,10 +2,10 @@ import os
 
 class Config:
 
-    MOVIE_API_BASE_URL ='https://api.themoviedb.org/3/movie/{}?api_key={}'
-    MOVIE_API_KEY = os.environ.get('MOVIE_API_KEY')
-    SECRET_KEY = os.environ.get('SECRET_KEY')
-
+    
+   	NEWS_SOURCES_BASE_URL ='https://newsapi.org/v2/sources?language=en&category={}&apiKey={}'
+   	ARTICLES_BASE_URL = 'https://newsapi.org/v2/everything?language=en&sources={}&apiKey={}'
+   	NEWS_API_KEY = os.environ.get('NEWS_API_KEY')
 
 class ProdConfig(Config):
     pass
