@@ -31,3 +31,6 @@ $ ./start.sh
 2. Git
 3. Bootstrap
 4. Flask
+
+### license
+This project is under the  [MIT](license) license.
