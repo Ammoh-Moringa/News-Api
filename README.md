@@ -34,3 +34,8 @@ $ ./start.sh
 
 ### license
 This project is under the  [MIT](license) license.
+
+
+### live site
+
+View [live](https://newsapi8.herokuapp.com/ deployed to Heroku/)
