@@ -3,8 +3,7 @@
 ## Amos Kiprotich
 
 ### Description
-This is a news appliction where a user gets any news update or breaking news from any site 
-or news source given or searched.
+This is a simple application where a user is able to view different sources and articles and navigate to their site for more information.
 
 ### Prerequisites
 You need the following to start working on this project:
@@ -17,7 +16,7 @@ On your local systems;
 5. A text editor
 
 ### Project SetUp
-1. Git clone https://github.com/Chebichii-Lab/news-Api.git
+1. Git clone git remote add origin https://github.com/Ammoh-Moringa/News-Api.git
 2. Navigate to the folder using terminal
 3. Run the file
 
